@@ -26,6 +26,8 @@ class Cleaner {
    
     /**
      * Search register globals and remove them.
+     *
+     * @since 1.0.0
      */
     public static function unregisterGlobals() {
 
@@ -57,8 +59,10 @@ class Cleaner {
 
     /**
      * Check Magic Quotes and remove them.
-     * 
-     * @param  array|string $value
+     *
+     * @since 1.0.0
+     *
+     * @param array|string $value
      *
      * @return array|string
      */
@@ -70,20 +74,22 @@ class Cleaner {
     }
 
     /**
-    * Check Magic Quotes and remove them.
-    */
+     * Check Magic Quotes and remove them.
+     *
+     * @since 1.0.0
+     */
     public static function removeMagicQuotes() {
 
         if (get_magic_quotes_gpc()) {
 
             if (isset($_GET)) {
 
-                $_GET    = self::stripSlashesDeep($_GET);
+                $_GET = self::stripSlashesDeep($_GET);
             }
             
             if (isset($_POST)) {
 
-                $_POST   = self::stripSlashesDeep($_POST);
+                $_POST = self::stripSlashesDeep($_POST);
             }
             
             if (isset($_COOKIE)) {
