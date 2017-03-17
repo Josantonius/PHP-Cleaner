@@ -1,16 +1,12 @@
-<?php
+<?php 
 /**
  * PHP class for cleaning resources.
  * 
- * @category   JST
- * @package    Cleaner
- * @subpackage CleanerException
- * @author     Josantonius - info@josantonius.com
+ * @author     Josantonius - hello@josantonius.com
  * @copyright  Copyright (c) 2016 JST PHP Framework
  * @license    https://opensource.org/licenses/MIT - The MIT License (MIT)
- * @version    1.1.0
  * @link       https://github.com/Josantonius/PHP-Cleaner
- * @since      File available since 1.0.0 - Update: 2017-01-30
+ * @since      1.0.0
  */
 
 namespace Josantonius\Cleaner\Exception;
