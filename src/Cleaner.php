@@ -11,8 +11,6 @@
 
 namespace Josantonius\Cleaner;
 
-# use Josantonius\Cleaner\Exception\CleanerException;
-
 /**
  * Resource cleaner.
  *
@@ -30,6 +28,7 @@ class Cleaner {
         if (ini_get('register_globals')) {
 
             $array = [
+            
                 '_SESSION', 
                 '_POST', 
                 '_GET', 
