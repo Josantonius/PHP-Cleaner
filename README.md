@@ -24,7 +24,7 @@ PHP class for cleaning resources.
 <p align="center"><strong>Take a look at the code</strong></p>
 
 <p align="center">
-  <a href="" title="Take a look at the code">
+  <a href="https://youtu.be/naRi7f8hPf0" title="Take a look at the code">
   	<img src="https://raw.githubusercontent.com/Josantonius/PHP-Algorithm/master/resources/youtube-thumbnail.jpg">
   </a>
 </p>

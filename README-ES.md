@@ -4,7 +4,7 @@
 
 [English version](README.md)
 
-Librería PHP para limpieza de recursos.
+Biblioteca PHP para limpieza de recursos.
 
 ---
 
@@ -24,7 +24,7 @@ Librería PHP para limpieza de recursos.
 <p align="center"><strong>Echa un vistazo al código</strong></p>
 
 <p align="center">
-  <a href="" title="Echa un vistazo al código">
+  <a href="https://youtu.be/naRi7f8hPf0" title="Echa un vistazo al código">
   	<img src="https://raw.githubusercontent.com/Josantonius/PHP-Algorithm/master/resources/youtube-thumbnail.jpg">
   </a>
 </p>
@@ -53,7 +53,7 @@ Esta biblioteca es soportada por versiones de PHP 5.6 o superiores y es compatib
 
 ### Cómo empezar y ejemplos
 
-Para utilizar esta librería, simplemente:
+Para utilizar esta biblioteca, simplemente:
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
@@ -62,7 +62,7 @@ use Josantonius\Cleaner\Cleaner;
 ```
 ### Métodos disponibles
 
-Métodos disponibles en esta librería:
+Métodos disponibles en esta biblioteca:
 
 ```php
 Cleaner::unregisterGlobals();
@@ -71,7 +71,7 @@ Cleaner::removeMagicQuotes();
 ```
 ### Uso
 
-Ejemplo de uso para esta librería:
+Ejemplo de uso para esta biblioteca:
 
 ```php
 <?php
@@ -95,7 +95,7 @@ $loader->addPsr4('Josantonius\\Cleaner\\Tests\\', __DIR__ . '/vendor/josantonius
 
 use Josantonius\Cleaner\Tests\CleanerTest;
 ```
-Métodos de prueba disponibles en esta librería:
+Métodos de prueba disponibles en esta biblioteca:
 
 ```php
 CleanerTest::testRemoveMagicQuotes();
