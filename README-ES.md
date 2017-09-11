@@ -4,7 +4,7 @@
 
 [English version](README.md)
 
-<p style="font-size:20; color:red;">REPOSITORIO OBSOLETO</p>
+<p style="font-size: 28px;color:red;font-family: monospace;font-weight: 900;text-align: center;">REPOSITORIO OBSOLETO</p>
 
 Biblioteca PHP para limpieza de recursos.
 

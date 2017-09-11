@@ -4,7 +4,7 @@
 
 [Versión en español](README-ES.md)
 
-<p style="font-size:20; color:red;">DEPRECATED REPOSITORY</p>
+<p style="font-size: 28px;color:red;font-family: monospace;font-weight: 900;text-align: center;">DEPRECATED REPOSITORY</p>
 
 PHP class for cleaning resources.
 
