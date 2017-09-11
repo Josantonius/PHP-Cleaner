@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.3 - 2017-09-11
+
+The repository was established as obsolete.
+
 ## 1.1.2 - 2017-07-16
 * Deleted `Josantonius\Cleaner\Exception\CleanerException` class.
 * Deleted `Josantonius\Cleaner\Exception\Exceptions` abstract class.

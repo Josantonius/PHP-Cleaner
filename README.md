@@ -4,6 +4,8 @@
 
 [Versión en español](README-ES.md)
 
+<p style="font-size:20; color:red;">DEPRECATED REPOSITORY</p>
+
 PHP class for cleaning resources.
 
 ---
