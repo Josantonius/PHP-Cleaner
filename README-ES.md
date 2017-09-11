@@ -1,10 +1,8 @@
-# PHP Cleaner library
+# PHP Cleaner library (OBSOLETO)
 
 [![Latest Stable Version](https://poser.pugx.org/josantonius/cleaner/v/stable)](https://packagist.org/packages/josantonius/cleaner) [![Total Downloads](https://poser.pugx.org/josantonius/cleaner/downloads)](https://packagist.org/packages/josantonius/cleaner) [![Latest Unstable Version](https://poser.pugx.org/josantonius/cleaner/v/unstable)](https://packagist.org/packages/josantonius/cleaner) [![License](https://poser.pugx.org/josantonius/cleaner/license)](https://packagist.org/packages/josantonius/cleaner)
 
 [English version](README.md)
-
-<p style="font-size: 28px;color:red;font-family: monospace;font-weight: 900;text-align: center;">REPOSITORIO OBSOLETO</p>
 
 Biblioteca PHP para limpieza de recursos.
 
