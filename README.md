@@ -4,8 +4,6 @@
 
 [Versión en español](README-ES.md)
 
-<p style="font-size: 28px;color:red;font-family: monospace;font-weight: 900;text-align: center;">DEPRECATED REPOSITORY</p>
-
 PHP class for cleaning resources.
 
 ---
@@ -20,16 +18,6 @@ PHP class for cleaning resources.
 - [Repository](#repository)
 - [License](#license)
 - [Copyright](#copyright)
-
----
-
-<p align="center"><strong>Take a look at the code</strong></p>
-
-<p align="center">
-  <a href="https://youtu.be/naRi7f8hPf0" title="Take a look at the code">
-  	<img src="https://raw.githubusercontent.com/Josantonius/PHP-Algorithm/master/resources/youtube-thumbnail.jpg">
-  </a>
-</p>
 
 ---
 
